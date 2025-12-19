@@ -4,7 +4,11 @@
 Mini-calculette HTML/CSS/JS développée via un workflow Git avec branches de fonctionnalités et résolution de conflit.
 
 ## Fonctionnalités
+- Addition (a + b)
+- Soustraction (a - b)
+- Multiplication (a * b)
 - (À compléter au fil des merges)
+
 
 ## Lancer le projet
 Ouvrir `index.html` dans un navigateur.
