@@ -30,8 +30,9 @@ function subtract(a, b) {
 
 
 function multiply(a, b) {
-  throw new Error('Multiplication non implémentée.');
+  return a * b;
 }
+
 
 function safeCompute(operationName, fn) {
   try {
