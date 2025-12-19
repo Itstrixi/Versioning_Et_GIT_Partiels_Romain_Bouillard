@@ -5,7 +5,9 @@ Mini-calculette HTML/CSS/JS développée via un workflow Git avec branches de fo
 
 ## Fonctionnalités
 - Addition (a + b)
+- Soustraction (a - b)
 - (À compléter au fil des merges)
+
 
 
 ## Lancer le projet

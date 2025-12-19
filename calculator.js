@@ -25,8 +25,9 @@ function add(a, b) {
 
 
 function subtract(a, b) {
-  throw new Error('Soustraction non implémentée.');
+  return a - b;
 }
+
 
 function multiply(a, b) {
   throw new Error('Multiplication non implémentée.');
