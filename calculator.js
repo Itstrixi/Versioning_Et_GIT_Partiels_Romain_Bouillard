@@ -20,16 +20,19 @@ function setHint(message) {
 
 
 function add(a, b) {
-  throw new Error('Addition non implémentée.');
+  return a + b;
 }
+
 
 function subtract(a, b) {
-  throw new Error('Soustraction non implémentée.');
+  return a - b;
 }
 
+
 function multiply(a, b) {
-  throw new Error('Multiplication non implémentée.');
+  return a * b;
 }
+
 
 function safeCompute(operationName, fn) {
   try {
